@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-<h1>Requiured Homework</h1>
+<h1>Required Homework</h1>
 <h2>Logical Diagram</h2>
 
 ```
