@@ -16,11 +16,13 @@ This budget was created for $20. I have another budget rule in place because I h
 ![Image of the EventBridge Rule](assests/EventBridge_Week0.PNG)
 
 ### Create EventBridge SNS Topic w/subscription
-![Image of the SNS Topic for EventBridge RUle](assests/EventBridgeTopicandSub_Week0.PNG)
+![Image of the SNS Topic for EventBridge Rule](assests/EventBridgeTopicandSub_Week0.PNG)
 
 
 ## Homework Challenges
-### Logical Diagram Follow along
+### Logical Diagram 
+![Image of Logical Diagram](assests/Luicd_Week0.PNGG)
+
 ```
 https://lucid.app/lucidchart/1ecee674-b559-4268-a28e-3c95517323dd/edit?viewport_loc=-8%2C-1015%2C4245%2C1588%2C0_0&invitationId=inv_c698acc2-ceeb-40b3-a8bf-c71dfbad8799
 ```
