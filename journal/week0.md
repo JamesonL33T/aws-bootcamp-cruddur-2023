@@ -7,9 +7,9 @@ This budget was created for $20. I have another budget rule in place because I h
 ![Image of the AWS Budget](assests/budget_Week0.PNG)
 
 ### Create Budget Alert
-This is the budget alert that sends out an email
+This is the budget alert that sends out an email when the actual cost is greater than 80% ($16.00) of the budgeted amount ($20.00), the alert threshold will be exceeded.
+Trust me I know how important this alert is because I recieved a nice bill a few years back when I was walking through some lab work to prepare myself for the SAA-C01.
 ![Image of the Budget Alert](assests/budget_alert_Week0.PNG)
-
 
 ### Logical Diagram 
 ![Image of Logical Diagram](assests/Luicd_Week0.PNG)
@@ -18,6 +18,7 @@ This is the budget alert that sends out an email
 
 ## Homework Challenges
 
+I was going to work on deploying budget alarms and setting up Eventbridge health alert with Terraform but this week has been crazy at work and I am out of town until Sunday so I was only able to get the EventBridge rule in place.
 ### Create EventBridge
 ![Image of the EventBridge Rule](assests/EventBridge_Week0.PNG)
 
