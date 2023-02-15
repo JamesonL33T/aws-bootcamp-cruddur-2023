@@ -22,9 +22,9 @@ This budget was created for $20. I have another budget rule in place because I h
 ### Logical Diagram 
 ![Image of Logical Diagram](assests/Luicd_Week0.PNG)
 
-```
-https://lucid.app/lucidchart/1ecee674-b559-4268-a28e-3c95517323dd/edit?viewport_loc=-8%2C-881%2C4245%2C1588%2C0_0&invitationId=inv_c698acc2-ceeb-40b3-a8bf-c71dfbad8799
-```
+
+[Lucid Charts Share Link](https://lucid.app/lucidchart/1ecee674-b559-4268-a28e-3c95517323dd/edit?viewport_loc=-8%2C-881%2C4245%2C1588%2C0_0&invitationId=inv_c698acc2-ceeb-40b3-a8bf-c71dfbad8799)
+
 CI/CD
 Insert
 
