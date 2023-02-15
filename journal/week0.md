@@ -12,12 +12,6 @@ This budget was created for $20. I have another budget rule in place because I h
 ### Create Budget Alert
 ![Image of the Budget Alert](assests/budget_alert_Week0.PNG)
 
-### Create EventBridge
-![Image of the EventBridge Rule](assests/EventBridge_Week0.PNG)
-
-### Create EventBridge SNS Topic w/subscription
-![Image of the SNS Topic for EventBridge Rule](assests/EventBridgeTopicandSub_Week0.PNG)
-
 
 ### Logical Diagram 
 ![Image of Logical Diagram](assests/Luicd_Week0.PNG)
@@ -29,3 +23,9 @@ CI/CD
 Insert
 
 ## Homework Challenges
+
+### Create EventBridge
+![Image of the EventBridge Rule](assests/EventBridge_Week0.PNG)
+
+### Create EventBridge SNS Topic w/subscription
+![Image of the SNS Topic for EventBridge Rule](assests/EventBridgeTopicandSub_Week0.PNG)
