@@ -3,19 +3,20 @@
 <h1>Required Homework</h1>
 
 <h2>Create Billing Alert</h2>
-[Image of the Billing Alert](assests/Billing_alert_Week0.PNG)
+![Image of the Billing Alert](assests/Billing_alert_Week0.PNG)
 
 <h2>Create Budget</h2>
-[Image of the AWS Budget](assests/budget_Week0.PNG)
+This budget was created for $20. I have another budget rule in place because I have had this account for over 5 years.
+![Image of the AWS Budget](assests/budget_Week0.PNG)
 
 <h2>Create Budget Alert</h2>
-[Image of the Budget Alert](assests/budget_alert_Week0.PNG)
+![Image of the Budget Alert](assests/budget_alert_Week0.PNG)
 
 <h2>Create EventBridge</h2>
-[Image of the EventBridge Rule](assests/EventBridge_Week0.PNG)
+![Image of the EventBridge Rule](assests/EventBridge_Week0.PNG)
 
 <h2>Create EventBridge SNS Topic w/subscription</h2>
-[Image of the SNS Topic for EventBridge RUle](assests/EventBridgeTopicandSub_Week0.PNG)
+![Image of the SNS Topic for EventBridge RUle](assests/EventBridgeTopicandSub_Week0.PNG)
 
 
 <h1>Homework Challenges</h1>
